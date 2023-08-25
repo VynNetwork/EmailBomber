@@ -28,7 +28,7 @@ cd EmailBomber
 
 pip install colorama
 
-python Vyn - EmailBomber.py
+python EmailBomber.py
 
 
 
