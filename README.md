@@ -2,6 +2,8 @@
 
 A simple tool to spam targeted emails (Doesn't go to spam).
 
+READ GUIDE.TXT FILE
+
 1. Type the target's email.
 
 2. Choose the amount of messages to send.
