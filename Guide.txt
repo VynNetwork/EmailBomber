@@ -1,3 +1,5 @@
+HOW TO GENERATE YOUR APP PASSWORD
+
 1. Sign in to your Google account.
 
 2. Go to your account security settings.
@@ -6,4 +8,4 @@
 
 4. After you enable two-factor authentication, you should see the "App Passwords" or "App Passwords" option.
 
-5. Generate an app password by selecting the "Mail" or "Custom app" application.
+5. Generate an app password by selecting the "Mail" application.
